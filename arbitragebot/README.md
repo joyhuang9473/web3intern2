@@ -1,5 +1,7 @@
 ## Arbitragebot
 
+You can find more details at the following link: [<link>](https://docs.google.com/presentation/d/1SycsVWWGY7SzRRA-9bu-Q29a_cBJsw6Y6jNfnob3z9k/edit?usp=sharing)
+
 ```
 # step0: local forked mainnet
 $ anvil --fork-url https://mainnet.chainnodes.org/<your_api_key> --fork-block-number 20487429 --fork-chain-id 1 --chain-id 1
