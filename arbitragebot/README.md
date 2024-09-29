@@ -1,6 +1,6 @@
 ## Arbitragebot
 
-You can find more details at the following link: [<link>](https://docs.google.com/presentation/d/1SycsVWWGY7SzRRA-9bu-Q29a_cBJsw6Y6jNfnob3z9k/edit?usp=sharing)
+You can find more details at the following link: [https://docs.google.com/presentation/d/1SycsVWWGY7SzRRA-9bu-Q29a_cBJsw6Y6jNfnob3z9k/edit?usp=sharing](https://docs.google.com/presentation/d/1SycsVWWGY7SzRRA-9bu-Q29a_cBJsw6Y6jNfnob3z9k/edit?usp=sharing)
 
 ```
 # step0: local forked mainnet
